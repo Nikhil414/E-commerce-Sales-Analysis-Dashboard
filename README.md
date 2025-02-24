@@ -1,6 +1,6 @@
 # E-commerce-Sales-Analysis-Dashboard
 
-![Dashboard Preview](link-to-your-dashboard-screenshot.png)  
+![Dashboard Preview](https://github.com/Nikhil414/E-commerce-Sales-Analysis-Dashboard/blob/0702fddf161592528432b068ca5ec2ce587d11b7/Dashboards.PNG)  
 
 ## 🚀 **Project Overview**  
 This project involves **analyzing E-commerce sales data** and creating an **interactive dashboard** using **Power BI**. The dashboard provides **insights into sales performance**, **customer behavior**, and **market trends**, helping stakeholders make **data-driven decisions**.  
